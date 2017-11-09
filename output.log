@@ -1,0 +1,170 @@
+nohup: ignoring input
+[0mGET / [36m304 [0m8.987 ms - -[0m
+[0mGET / [36m304 [0m9.203 ms - -[0m
+[0mGET / [32m200 [0m3.682 ms - 3453[0m
+[0mGET /favicon.ico [33m404 [0m11.393 ms - 1006[0m
+[0mGET / [36m304 [0m1.431 ms - -[0m
+[0mGET / [32m200 [0m4.249 ms - 3453[0m
+[0mGET / [32m200 [0m2.299 ms - 3453[0m
+[0mGET / [32m200 [0m1.501 ms - 3453[0m
+[0mGET / [32m200 [0m1.601 ms - 3453[0m
+[0mGET / [32m200 [0m1.364 ms - 3453[0m
+[0mGET /favicon.ico [33m404 [0m3.077 ms - 1006[0m
+[0mGET / [36m304 [0m1.329 ms - -[0m
+In politics
+[0mGET /owlbot?w=hello [32m200 [0m268.273 ms - -[0m
+In politics
+[0mGET /owlbot?w=this [32m200 [0m135.976 ms - -[0m
+In politics
+[0mGET /owlbot?w=something [32m200 [0m125.696 ms - -[0m
+In getcity route
+This is myRe
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[0mGET /getcity?q=P [32m200 [0m4.083 ms - 304[0m
+In getcity route
+This is myRe
+/^Pr/
+Price
+Providence
+Provo
+[0mGET /getcity?q=Pr [32m200 [0m5.052 ms - 57[0m
+In getcity route
+This is myRe
+/^Pro/
+Providence
+Provo
+[0mGET /getcity?q=Pro [32m200 [0m0.486 ms - 40[0m
+In getcity route
+This is myRe
+/^Pro/
+Providence
+Provo
+[0mGET /getcity?q=Pro [36m304 [0m0.537 ms - -[0m
+In getcity route
+This is myRe
+/^Prob/
+[0mGET /getcity?q=Prob [32m200 [0m0.490 ms - 2[0m
+In getcity route
+This is myRe
+/^Probo/
+[0mGET /getcity?q=Probo [32m200 [0m0.756 ms - 2[0m
+In getcity route
+This is myRe
+/^Prob/
+[0mGET /getcity?q=Prob [36m304 [0m0.551 ms - -[0m
+In getcity route
+This is myRe
+/^Pro/
+Providence
+Provo
+[0mGET /getcity?q=Pro [36m304 [0m0.591 ms - -[0m
+In getcity route
+This is myRe
+/^Provo/
+Provo
+[0mGET /getcity?q=Provo [32m200 [0m0.826 ms - 18[0m
+In getcity route
+This is myRe
+/^Provo/
+Provo
+[0mGET /getcity?q=Provo [36m304 [0m1.322 ms - -[0m
+In getcity route
+This is myRe
+/^Provo/
+Provo
+[0mGET /getcity?q=Provo [36m304 [0m0.651 ms - -[0m
+In getcity route
+This is myRe
+/^Provo/
+Provo
+[0mGET /getcity?q=Provo [36m304 [0m1.601 ms - -[0m
+In getcity route
+This is myRe
+/^AL/
+[0mGET /getcity?q=AL [32m200 [0m1.344 ms - 2[0m
+In getcity route
+This is myRe
+/^AL/
+[0mGET /getcity?q=AL [36m304 [0m0.705 ms - -[0m
+In getcity route
+This is myRe
+/^AL/
+[0mGET /getcity?q=AL [36m304 [0m0.567 ms - -[0m
+In getcity route
+This is myRe
+/^ALp/
+[0mGET /getcity?q=ALp [32m200 [0m0.612 ms - 2[0m
+In getcity route
+This is myRe
+/^AL/
+[0mGET /getcity?q=AL [36m304 [0m1.182 ms - -[0m
+In getcity route
+This is myRe
+/^A/
+Alpine
+Altamont
+Alton
+Altonah
+American Fork
+Aneth
+Annabella
+Antimony
+Aurora
+Axtell
+[0mGET /getcity?q=A [32m200 [0m1.181 ms - 194[0m
+In getcity route
+This is myRe
+/^Al/
+Alpine
+Altamont
+Alton
+Altonah
+[0mGET /getcity?q=Al [32m200 [0m1.691 ms - 75[0m
+In getcity route
+This is myRe
+/^Alpo/
+[0mGET /getcity?q=Alpo [32m200 [0m0.533 ms - 2[0m
+In getcity route
+This is myRe
+/^Alpo/
+[0mGET /getcity?q=Alpo [36m304 [0m0.458 ms - -[0m
+In getcity route
+This is myRe
+/^Alp/
+Alpine
+[0mGET /getcity?q=Alp [32m200 [0m0.596 ms - 19[0m
+In getcity route
+This is myRe
+/^Alpin/
+Alpine
+[0mGET /getcity?q=Alpin [32m200 [0m1.197 ms - 19[0m
+In getcity route
+This is myRe
+/^Alpin/
+Alpine
+[0mGET /getcity?q=Alpin [36m304 [0m0.831 ms - -[0m
+In getcity route
+This is myRe
+/^Alpine/
+Alpine
+[0mGET /getcity?q=Alpine [32m200 [0m1.510 ms - 19[0m
+In getcity route
+This is myRe
+/^Alpine/
+Alpine
+[0mGET /getcity?q=Alpine [36m304 [0m1.511 ms - -[0m
